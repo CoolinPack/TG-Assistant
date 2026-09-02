@@ -4,7 +4,7 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_ТОКЕН_БОТА")
 
 # === API ключи моделей ===
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "ВСТАВЬ_GEMINI_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6JKB6lwYJaFVG2auJZu5a-SBwC0dHXIVMsuu6IkPqVzkg")
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "ВСТАВЬ_MISTRAL_KEY")
 # GPT-OSS-120B обычно доступен через OpenRouter / Groq — укажи свой endpoint и ключ
 GPTOSS_API_KEY = os.getenv("GPTOSS_API_KEY", "ВСТАВЬ_GPTOSS_KEY")
