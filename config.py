@@ -1,7 +1,7 @@
 import os
 
 # === Telegram ===
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_ТОКЕН_БОТА")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8894600930:AAGOGbrnk10pyKzXvIFbt6u1_h5bRNy-J5k")
 
 # === API ключи моделей ===
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6JKB6lwYJaFVG2auJZu5a-SBwC0dHXIVMsuu6IkPqVzkg")
